@@ -37,8 +37,9 @@ body {
   border: 1px solid black;
 }
 .b1 {
-  margin-left: 10px;
+  margin-left: 10%;
   background-color: green;
   padding: 5px 20px;
   color: white;
+  
 }
