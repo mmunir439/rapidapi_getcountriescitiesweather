@@ -64,7 +64,7 @@ export default function Home() {
     const options = {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "94ac3d5291mshedab46e79469db2p14012djsn7cd0340378d6", // Replace this with env variable for production
+        "x-rapidapi-key": apiKey, // Replace this with env variable for production
         "x-rapidapi-host": "open-weather13.p.rapidapi.com",
       },
     };
